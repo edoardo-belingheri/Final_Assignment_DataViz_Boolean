@@ -471,7 +471,7 @@ if __name__ == "__main__":
     
     # Modifica questi percorsi con i tuoi file
     INPUT_FILE = "data/Climate Data Clean.csv"
-    OUTPUT_FILE = "data/climate_pulito.csv"
+    OUTPUT_FILE = "data/Climate Data Pulito.csv"
     
     # Esegui la pulizia
     df_pulito = pulisci_dati(INPUT_FILE, OUTPUT_FILE)
