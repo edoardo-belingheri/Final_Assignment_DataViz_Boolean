@@ -68,28 +68,6 @@ La dashboard si trova in:
 
 ---
 
-## 🚀 Come riprodurre il progetto
-
-1. Clona il repository
-
-2. Crea e attiva un ambiente virtuale
-
-3. Installa le dipendenze (requirements.txt)
-
-4. Apri ed esegui le celle del notebook `notebooks/pulizia final assign.ipynb` o esegui lo script `src/script_pulizia_dati_climate.py`.
-
-5. Apri la dashboard Power BI (Installa **Microsoft Power BI Desktop** -> gratuito)
-La dashboard utilizza il file: data/Climate Data Pulito.xlsx  
-Questo file è stato generato tramite il processo di pulizia svolto in Python.
-
-6. Assicurati che il file “Climate Data Pulito.xlsx” sia nella cartella `data/`,
-così Power BI può caricarlo tramite percorso relativo.
-
-7. La dashboard è ora completamente funzionante e permette di esplorare:
-- opinioni sul cambiamento climatico
-- livello di preoccupazione degli europei
-- preferenze energetiche
-- differenze tra Paesi
 
 
 
